@@ -1,7 +1,3 @@
-<<<<<<< HEAD
 yashi agarwal
 
 noops added monkey
-=======
-yashi
->>>>>>> parent of 84d896b... staging area 2nd commit
