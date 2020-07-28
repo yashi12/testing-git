@@ -1,0 +1,8 @@
+first test change
+
+<<<<<<< HEAD
+second intellij
+=======
+second intellij
+third
+>>>>>>> d34499236dcc3ef1bf144b3d790519ec90975531
